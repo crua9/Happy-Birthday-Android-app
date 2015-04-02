@@ -1,0 +1,10 @@
+text1text1text1text1<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birthday</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">text1</string>
+    <string name="text2">2</string>
+
+</resources>
